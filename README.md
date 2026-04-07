@@ -1,6 +1,6 @@
 # pg_connexion2
 
-Un projet Flutter pour tester et apprendre à créer des de connexion.
+Un projet Flutter pour tester et apprendre à créer des pages de connexion.
 
 ## Aperçu
 
